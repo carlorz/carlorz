@@ -28,5 +28,5 @@ Learn to develop websites and video games.
 ---
 
 <p align="center">
-  <img src="https://es.pinterest.com/pin/826058756644314524/" width="250">
+  <img src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" width="250">
 </p>
