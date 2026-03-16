@@ -23,10 +23,11 @@ Learn to develop websites and video games.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlorz)
-
----
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" width="250">
 </p>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlorz)
+
