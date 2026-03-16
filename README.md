@@ -11,4 +11,6 @@ Systems Engineering student at Universidad de la Costa.
 Learn to develop websites and video games.
 
 #### Contact me
-[Instagram] (https://www.instagram.com/crls_rz.95?igsh=bDN6eHpwMGNzcHMz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/crls_rz.95?igsh=bDN6eHpwMGNzcHMz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:carlosandresruiz02152007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/carlorz)
