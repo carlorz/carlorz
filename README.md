@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, my name is Carlos
+I'm 19 yo.
+Systems Engineering student at Universidad de la Costa. 
 
-<!--
-**carlorz/carlorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies I’m currently learning.
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+### My interests
+Learn to develop websites and video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact me
+[Instagram] (https://www.instagram.com/crls_rz.95?igsh=bDN6eHpwMGNzcHMz)
