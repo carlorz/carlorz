@@ -36,5 +36,5 @@ Learn to develop websites and video games.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlorz)
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=00D4FF&style=plastic">
+<img src="https://komarev.com/ghpvc/?username=carlorz&label=Profile%20views&color=00D4FF&style=plastic">
 
