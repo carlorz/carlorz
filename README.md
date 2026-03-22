@@ -1,6 +1,6 @@
 <h2 align="left">Hello, world! 🌍</h2>
-<b>My name is Carlos and I'm a systems engineering student passionate about building and solving with code.</b>
-<b>I'm From Colombia</b>
+<b>My name is Carlos and I'm a systems engineering student passionate about building and solving with code.<br></b>
+<b>I'm From Colombia<br></b>
 <b>💻 Focused on learning web development and website management.</b>
 
 ###
