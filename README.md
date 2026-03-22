@@ -25,8 +25,11 @@
 ###
 
 <div align="left">
+<a href="https://www.youtube.com/@carlosrz95">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<a href= "https://www.instragram..com/crls_rz.95?igsh=bDN6eHpwMGNzcHMz">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<a href="mailto:carlosandresruiz02152007@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" 
 alt="gmail logo"  />
 </div>
