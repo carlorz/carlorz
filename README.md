@@ -1,4 +1,4 @@
-<h2 align="left">Hello, world! 🌍<br> My name is Carlos and I'm a systems engineering student passionate about building and solving with code. I'm from Colombia.</h2>
+<h2 align="left">Hello, world! 🌍<br> My name is Carlos and I'm a systems engineering student passionate about building and solving with code.<br> I'm from Colombia.</h2>
 
 ###
 
